@@ -16,6 +16,6 @@ enable_testing()
 
 set(SOURCES src/vector.cpp)
 
-add_executable(tests/test_vector.cpp ${SOURCES})
+add_executable(../tests/test_vector.cpp ${SOURCES})
 
 add_test(NAME ${PROJECT_NAME} COMMAND test_vector)
