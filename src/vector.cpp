@@ -1,4 +1,4 @@
-#include <vector.h>
+#include "../include/vector.h"
 
 Vector::Vector() {
     for (unsigned long i = 0; i < n; i++) {
