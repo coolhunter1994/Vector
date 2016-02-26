@@ -2,7 +2,7 @@
 //File Vector.cpp
 //
 
-#include "../include/vector.h"
+#include "../include/vector.cpp"
 
 Vector::Vector() {
         for(int i = 0; i <= n; i++) {
