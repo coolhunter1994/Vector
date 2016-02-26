@@ -1,1 +1,2 @@
-# Vector
+# vector
+Linear space element representation
